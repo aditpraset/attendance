@@ -22,6 +22,8 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         signUpBtn.layer.borderWidth = 1
         signUpBtn.layer.borderColor = UIColor.black.cgColor
+        
+        
     }
 
 
